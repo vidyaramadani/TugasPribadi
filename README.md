@@ -47,21 +47,36 @@ Aplikasi ini juga bisa melihat film-film yang paling banyak ditonton, film-film 
 
 ## I.Screenshot
 <br>
-# menu
-![1](https://cloud.githubusercontent.com/assets/22124998/26035260/cc371874-38f3-11e7-85d1-59f331637263.png)
+
+# menu 
 <br>
-![1 1](https://cloud.githubusercontent.com/assets/22124998/26035308/627e1710-38f4-11e7-95b6-f1fa28df9de7.png)
+
+![1](https://cloud.githubusercontent.com/assets/22124998/26035694/aa01ffa6-38fa-11e7-866e-5c8d17e605ed.png)
 <br>
+
+![1 1](https://cloud.githubusercontent.com/assets/22124998/26035695/aa01f718-38fa-11e7-89c2-6e9ff5a81035.png)
+<br>
+
 # Top Movie
-![2](https://cloud.githubusercontent.com/assets/22124998/26035261/cc37c36e-38f3-11e7-9fc0-ea5539e95cd0.png)
 <br>
-![2 1](https://cloud.githubusercontent.com/assets/22124998/26035309/6281aace-38f4-11e7-8393-2ce67e544447.png)
+
+![2](https://cloud.githubusercontent.com/assets/22124998/26035697/aa19b7d6-38fa-11e7-8703-1d05fe6b528d.png)
 <br>
+
+![2 1](https://cloud.githubusercontent.com/assets/22124998/26035698/aa1c8c9a-38fa-11e7-99ae-b36ebbde8bcd.png)
+<br>
+
 # Coming Soon
-![3](https://cloud.githubusercontent.com/assets/22124998/26035259/cc35c1fe-38f3-11e7-9e48-ef12c20f4777.png)
 <br>
-![3 1](https://cloud.githubusercontent.com/assets/22124998/26035310/628281c4-38f4-11e7-85df-813b6affcd29.png)
+
+![3](https://cloud.githubusercontent.com/assets/22124998/26035699/aa318aa0-38fa-11e7-8bff-3851b0f0e7c1.png)
 <br>
+
+![3 1](https://cloud.githubusercontent.com/assets/22124998/26035696/aa0cd386-38fa-11e7-93ce-f20549085d4f.png)
+<br>
+
 # About
-![4](https://cloud.githubusercontent.com/assets/22124998/26035258/cc344f68-38f3-11e7-82f5-6b4b32d1f31e.png)
+<br>
+
+![4](https://cloud.githubusercontent.com/assets/22124998/26035693/aa008e0a-38fa-11e7-88c2-9c94e503a5d0.png)
 <br>
