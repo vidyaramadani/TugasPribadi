@@ -33,15 +33,13 @@ SQLite dasar
 
 ## G.Deskripsi Aplikasi
 <br>
-<P>  Aplikasi ini dibuat dengan tujuan untuk lebih memudahkan pengguna dalam mengupdate film-film terbaru yang akan tayang di bioskop maupun yang sedang tayang. 
-Aplikasi ini juga bisa melihat film-film yang paling banyak ditonton, film-film yang sudah tersedia di bioskop.</P>
+<P>  Aplikasi ini dibuat dengan tujuan untuk lebih memudahkan pengguna dalam mengupdate film-film terbaru yang akan tayang di bioskop denagan menyajikan poster dan deskripsi singkat film. Aplikasi ini juga bisa melihat film-film yang paling banyak ditonton, film-film yang sudah tersedia di bioskop.</P>
 <br>
 
 ## H.Kelebihan
 <br>
-- Memudahkan untuk melihat film yang akan tayang
-- Terdapat deskripsi dan poster pada setiap film
-- Dapat mengetahui film - film yang sedang tayang di bioskop
+- Memudahkan untuk melihat film yang akan tayang di bioskop <br>
+- Terdapat deskripsi dan poster pada setiap film <br>
 - Dapat mengetahui film yang populer atau paling banyak ditonton
 <br>
 
