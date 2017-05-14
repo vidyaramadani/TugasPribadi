@@ -1,0 +1,23 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="layout.AboutusFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="16dp"
+        android:text="  Aplikasi ini dibuat untuk memenuhi tugas akhir mata pelajaran Pemrograman Perangkat Bergerak (Mobile) semester 2 di SMK Telkom Malang. Semoga dapat bermanfaat untuk pengguna. Terimakasih kepada Allah SWT, orang tua, teman EPIC, guru, yang telah membantu mendukung dalam mengerjaan aplikasi ini.
+        \n\n
+    Oleh:
+       \n Ad Reana Vidya Ramadani
+       \n XIRPL5/01
+       \n SMK Telkom Malang
+       \n vidyavio2412@gmail.com
+       \n IG: vidyarea_" />
+
+</FrameLayout>

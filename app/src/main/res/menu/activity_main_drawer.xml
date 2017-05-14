@@ -5,12 +5,12 @@
         <item
             android:id="@+id/nav_baru"
             android:icon="@drawable/ic_ac_unit_black_24dp"
-            android:title="Baru" />
+            android:title="Top Movie" />
         <item
 
             android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="Import" />
+            android:icon="@drawable/ic_menu_send"
+            android:title="Coming Soon" />
 
     </group>
 
@@ -18,8 +18,8 @@
         <menu>
             <item
                 android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="Send" />
+                android:icon="@drawable/ic_menu_manage"
+                android:title="About" />
         </menu>
     </item>
 
