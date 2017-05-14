@@ -1,11 +1,13 @@
-### A.(Nama Aplikasi)
+## A.Nama Aplikasi
 <br>
 <P>MovieO</P>
 <br>
-### B.(Link Download)
+
+## B.Link Download
 <P>https://drive.google.com/open?id=0BzLeCv6Ne2waZWRKVEVwZW1nWDg </P>
 <br>
-### C.(Data Diri)
+
+## C.Data Diri
 Nama          : Ad Reana Vidya Ramadani <br>
 Kelas         : XI RPL 5 <br>
 No.Urut       : 01 <br>
@@ -13,31 +15,32 @@ NIS           : 4648/1367.070 <br>
 Angkatan      : 24<br>
 Nama Sekolah  : SMK Telkom Malang<br>
 <br>
-### D.(Alamat API)
+## D.Alamat API
 <br>
 <P>The Movie Database(TMDb) API: https://www.themoviedb.org/documentation/api </P>
 <br>
-### E.(Jenis Navigasi)
+## E.Jenis Navigasi
 <br>
 <P> Navigasi Drawer </P>
 <br>
-### F. (Library dari Local Database yang digunakan pada Aplikasi)
+## F.Library dari Local Database yang digunakan pada Aplikasi
 <br>
 SQLite dasar
 <br>
-### G. (Deskripsi Aplikasi)
+## G.Deskripsi Aplikasi
 <br>
 <P>  Aplikasi ini dibuat dengan tujuan untuk lebih memudahkan pengguna dalam mengupdate film-film terbaru yang akan tayang di bioskop maupun yang sedang tayang. 
 Aplikasi ini juga bisa melihat film-film yang paling banyak ditonton, film-film yang sudah tersedia di bioskop.</P>
 <br>
-### H. (Kelebihan)
+## H.Kelebihan
 <br>
 - Memudahkan untuk melihat film yang akan tayang
 - Terdapat deskripsi dan poster pada setiap film
 - Dapat mengetahui film - film yang sedang tayang di bioskop
 - Dapat mengetahui film yang populer atau paling banyak ditonton
 <br>
-### I. (Screenshot)
+
+## I.Screenshot
 <br>
 # menu
 ![1](https://cloud.githubusercontent.com/assets/22124998/26035260/cc371874-38f3-11e7-85d1-59f331637263.png)
