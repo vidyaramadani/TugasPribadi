@@ -95,6 +95,7 @@ public class MainActivity extends AppCompatActivity
     @Override
     public void showArticles(String title, String overview, String poster_path) {
 
+
     }
 }
 
