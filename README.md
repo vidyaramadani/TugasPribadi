@@ -15,23 +15,28 @@ NIS           : 4648/1367.070 <br>
 Angkatan      : 24<br>
 Nama Sekolah  : SMK Telkom Malang<br>
 <br>
+
 ## D.Alamat API
 <br>
 <P>The Movie Database(TMDb) API: https://www.themoviedb.org/documentation/api </P>
 <br>
+
 ## E.Jenis Navigasi
 <br>
 <P> Navigasi Drawer </P>
 <br>
+
 ## F.Library dari Local Database yang digunakan pada Aplikasi
 <br>
 SQLite dasar
 <br>
+
 ## G.Deskripsi Aplikasi
 <br>
 <P>  Aplikasi ini dibuat dengan tujuan untuk lebih memudahkan pengguna dalam mengupdate film-film terbaru yang akan tayang di bioskop maupun yang sedang tayang. 
 Aplikasi ini juga bisa melihat film-film yang paling banyak ditonton, film-film yang sudah tersedia di bioskop.</P>
 <br>
+
 ## H.Kelebihan
 <br>
 - Memudahkan untuk melihat film yang akan tayang
