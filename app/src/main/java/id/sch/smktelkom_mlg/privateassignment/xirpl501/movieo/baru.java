@@ -35,6 +35,25 @@ public class baru extends Fragment {
         // Required empty public constructor
     }
 
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
+        // Inflate the layout for this fragment
+        return inflater.inflate(R.layout.fragment_baru, container, false);
+    }
+
+    @Override
+    public void onActivityCreated(@Nullable Bundle savedInstanceState) {
+        super.onActivityCreated(savedInstanceState);
+
+        RecyclerView recyclerView = (RecyclerView) getView().findViewById(R.id.recyclerView);
+        recyclerView.setLayoutManager(new LinearLayoutManager(this.getActivity()));
+        mAdapter = new SourceAdapter(this.getActivity(), mList);
+        recyclerView.setAdapter(mAdapter);
+
+        downloadDataSources();
+    }
+
     private void downloadDataSources() {
         String url = "https://api.themoviedb.org/3/movie/popular?api_key=1c03d4118310b1c3606a97d0910bb471";
 
@@ -60,23 +79,8 @@ public class baru extends Fragment {
         VolleySingleton.getInstance(this.getActivity()).addToRequestQueue(myRequest);
     }
 
-    @Override
-    public void onActivityCreated(@Nullable Bundle savedInstanceState) {
-        super.onActivityCreated(savedInstanceState);
 
-        RecyclerView recyclerView = (RecyclerView) getView().findViewById(R.id.recyclerView);
-        recyclerView.setLayoutManager(new LinearLayoutManager(this.getActivity()));
-        mAdapter = new SourceAdapter(this.getActivity(), mList);
-        recyclerView.setAdapter(mAdapter);
 
-        downloadDataSources();
-    }
 
-    @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_baru, container, false);
-    }
 
 }

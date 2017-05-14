@@ -96,21 +96,14 @@ public class MainActivity extends AppCompatActivity
         if (id == R.id.nav_baru) {
             fragment = new baru();
             setTitle("Baru");
-        }
-        if (id == R.id.nav_camera) {
+        } else if (id == R.id.nav_camera) {
             fragment = new ImportFragment();
             setTitle("Import");
-        } else if (id == R.id.nav_gallery) {
-
-        } else if (id == R.id.nav_slideshow) {
-
-        } else if (id == R.id.nav_manage) {
-
-        } else if (id == R.id.nav_share) {
-
         } else if (id == R.id.nav_send) {
 
         }
+
+        getSupportFragmentManager().beginTransaction().replace(R.id.container, fragment).commitNow();
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
